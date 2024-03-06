@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kratik Modh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **MERN**
+
+- 📫 How to reach me **modhkratik@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RlkgR9pjaM0wQkbzv1Gkdc4XxmH1c9N5/view?usp=sharing](https://drive.google.com/file/d/1RlkgR9pjaM0wQkbzv1Gkdc4XxmH1c9N5/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kratik-modh-a5a6451a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kratik-modh-a5a6451a5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kratik-modh-a5a6451a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kratik-modh-a5a6451a5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
