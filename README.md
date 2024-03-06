@@ -18,11 +18,15 @@ Hi there! 👋 I'm a seasoned Software Engineer with a passion for building cutt
 - Spearheaded the development of a feature-rich e-commerce app, resulting in a 30% increase in customer engagement.
 - Implemented code optimization strategies that reduced app load times by 20%, enhancing user satisfaction.
 - Achieved a 95% positive user feedback rate through collaboration with UX/UI designers to refine app interfaces.
+- Added video call functionality, integrated Apple and Google Watches, and displayed corresponding data in the app.
 
 ### Social Media App
 - Contributed to a cross-functional team for a social media app, accelerating the launch timeline by 2 months.
 - Integrated third-party APIs for payment and social media features, expanding app functionality and user reach.
 - Assisted in developing a continuous integration/continuous deployment (CI/CD) pipeline, improving code quality and deployment efficiency by 40%.
+
+### Current Project
+- Currently working on an app where I integrated various SDKs to connect banking institutions, cryptocurrencies, stocks, shares, etc., collected data, and displayed it using various chart types in the application.
 
 ## Education
 - **BCA (Bachelor of Computer Application)**, Prestige Institute of Management and Research, Indore, India
