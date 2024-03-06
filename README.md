@@ -3,9 +3,8 @@
 Hi there! 👋 I'm a seasoned Software Engineer with a passion for building cutting-edge mobile applications. With extensive experience in React Native development and a knack for problem-solving, I thrive in collaborative environments where innovation and efficiency are valued.
 
 ## Quick Links
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio Website](https://www.yourwebsite.com)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/kratik-modh-a5a6451a5)
+- [Email](mailto:modhkratik@gmail.com)
 
 ## Skills
 - **React Native:** Expertise in developing cross-platform mobile applications with React Native framework.
@@ -35,4 +34,4 @@ Hi there! 👋 I'm a seasoned Software Engineer with a passion for building cutt
 - **MorLuxury**: E-commerce platform for beauty products. [Play Store](https://play.google.com/store/apps/details?id=com.morluxury) | [App Store](https://apps.apple.com/in/app/morluxury/id1645865886)
 
 ## Get in Touch
-Feel free to reach out to me via [email](mailto:youremail@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile) for any inquiries or collaborations. Let's build something awesome together! 🌟
+Feel free to reach out to me via [email](mailto:modhkratik@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/kratik-modh-a5a6451a5) for any inquiries or collaborations. Let's build something awesome together! 🌟
