@@ -1,8 +1,4 @@
-<br clear="both">
-
-<div align="center">
-  <img height="187" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/139991524/original/f317b5477220dd1cd0782e56b23c85b0685fdda7/develop-react-native-app-for-you.jpg"  />
-</div>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -22,15 +18,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Kratik Modh from Indore, India. I've spearheaded mobile app projects that reached over 10,000 users across both iOS and Android. My collaborative efforts in teams of up to 20 have boosted user engagement by 40% and enhanced app performance, cutting load times by 30%. With a knack for elevating user retention by 25% through intuitive UI/UX improvements, I merge technical prowess with measurable outcomes to deliver impactful mobile solutions<br><br>- 🔭 I’m working as a React Native Developer with experience over 4 years<br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time I do like to listen to music and play some guitar when I am bored from coding</p>
+<p align="left">I'm Kratik Modh, a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br><br>- 🔭 I’m working as a React Native Developer with experience over 4 years<br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time I do like to listen to music and play some guitar when I am bored from coding</p>
 
 ###
 
