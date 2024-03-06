@@ -1,66 +1,38 @@
-<h1 align="center">hey there 👋</h1>
+# About Me
 
-###
+Hi there! 👋 I'm a seasoned Software Engineer with a passion for building cutting-edge mobile applications. With extensive experience in React Native development and a knack for problem-solving, I thrive in collaborative environments where innovation and efficiency are valued.
 
-<div align="center">
-  <a href="www.linkedin.com/in/kratik-modh-a5a6451a5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## Quick Links
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Portfolio Website](https://www.yourwebsite.com)
+- [Email](mailto:youremail@example.com)
 
-###
+## Skills
+- **React Native:** Expertise in developing cross-platform mobile applications with React Native framework.
+- **JavaScript/TypeScript:** Proficient in writing clean, maintainable code using JavaScript and TypeScript.
+- **Redux:** Experience in state management using Redux for complex applications.
+- **API Integration:** Skilled in integrating third-party APIs to enhance app functionality and user experience.
+- **UI/UX Design Collaboration:** Collaborative approach with UX/UI designers to create intuitive and visually appealing interfaces.
 
-<br clear="both">
+## Projects
+### E-commerce App
+- Spearheaded the development of a feature-rich e-commerce app, resulting in a 30% increase in customer engagement.
+- Implemented code optimization strategies that reduced app load times by 20%, enhancing user satisfaction.
+- Achieved a 95% positive user feedback rate through collaboration with UX/UI designers to refine app interfaces.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kratikmodh.kratikmodh&"  />
-</div>
+### Social Media App
+- Contributed to a cross-functional team for a social media app, accelerating the launch timeline by 2 months.
+- Integrated third-party APIs for payment and social media features, expanding app functionality and user reach.
+- Assisted in developing a continuous integration/continuous deployment (CI/CD) pipeline, improving code quality and deployment efficiency by 40%.
 
-###
+## Education
+- **BCA (Bachelor of Computer Application)**, Prestige Institute of Management and Research, Indore, India
+  - Graduated with a CGPA of 7.87
+  - Specialized in Computer Applications
 
-<h3 align="left">👩‍💻  About Me</h3>
+## Projects Showcase
+- **Taqwea**: Mobile app for live video classes with chat functionality. [Play Store](https://play.google.com/store/apps/details?id=com.taqwea) | [App Store](https://apps.apple.com/in/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D9%82%D9%88%D9%8A%D8%A9/id1660015433)
+- **MorLuxury**: E-commerce platform for beauty products. [Play Store](https://play.google.com/store/apps/details?id=com.morluxury) | [App Store](https://apps.apple.com/in/app/morluxury/id1645865886)
 
-###
-
-<p align="left">I'm Kratik Modh, a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br><br>- 🔭 I’m working as a React Native Developer with experience over 4 years<br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time I do like to listen to music and play some guitar when I am bored from coding</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
+## Get in Touch
+Feel free to reach out to me via [email](mailto:youremail@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile) for any inquiries or collaborations. Let's build something awesome together! 🌟
