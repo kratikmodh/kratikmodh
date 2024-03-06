@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kratik Modh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India, working as a mobile dev on React Native platform</h3>
 
 - 🌱 I’m currently learning **MERN**
 
