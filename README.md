@@ -12,6 +12,7 @@ Hi there! 👋 I'm a seasoned Software Engineer with a passion for building cutt
 - **Redux:** Experience in state management using Redux for complex applications.
 - **API Integration:** Skilled in integrating third-party APIs to enhance app functionality and user experience.
 - **UI/UX Design Collaboration:** Collaborative approach with UX/UI designers to create intuitive and visually appealing interfaces.
+- **Node.js:** Recently started learning Node.js and worked on a MERN project, deploying it on Amazon AWS.
 
 ## Projects
 ### E-commerce App
