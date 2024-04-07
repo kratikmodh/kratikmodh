@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm a seasoned Software Engineer with a passion for building cutting-edge mobile applications. With extensive experience in React Native development and a knack for problem-solving, I thrive in collaborative environments where innovation and efficiency are valued.
+Hi there! 👋 I'm a seasoned Software Engineer with a passion for building cutting-edge mobile applications. With extensive experience in React Native development and a knack for problem-solving, I thrive in collaborative environments where innovation and efficiency are valued. Recently expanded skills to include Node.js, Express, and MongoDB, driven by a passion for continuous learning and professional growth. Proven track record of delivering high-quality solutions.
 
 ## Quick Links
 - [LinkedIn](https://www.linkedin.com/in/kratik-modh-a5a6451a5)
