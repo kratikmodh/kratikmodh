@@ -1,42 +1,80 @@
-# About Me
+# 👨‍💻 About Me
 
-Hi there! 👋 I'm a seasoned Software Engineer with a passion for building cutting-edge mobile applications. With extensive experience in React Native development and a knack for problem-solving, I thrive in collaborative environments where innovation and efficiency are valued. Recently expanded skills to include Node.js, Express, and MongoDB, driven by a passion for continuous learning and professional growth. Proven track record of delivering high-quality solutions.
+Hey there! 👋 I’m a **React Native Developer** with **5 years of experience** building secure, scalable, and production-ready mobile applications. I’ve worked across industries—from **health tech** and **agriculture** to **aviation** and **e-commerce**, including a **patented BLE-integrated app** now running at every airport in India 🇮🇳✈️. 
 
-## Quick Links
+Recently, I’ve been expanding into backend development using **Node.js**, having contributed to a **MERN project with Razorpay integration** and deployed it via **AWS EC2**.
+
+I thrive on leading teams, solving complex problems, and bridging the gap between hardware and software through BLE, native modules, and cutting-edge integrations.
+
+---
+
+## 🔗 Quick Links
 - [LinkedIn](https://www.linkedin.com/in/kratik-modh-a5a6451a5)
 - [Email](mailto:modhkratik@gmail.com)
 
-## Skills
-- **React Native:** Expertise in developing cross-platform mobile applications with React Native framework.
-- **JavaScript/TypeScript:** Proficient in writing clean, maintainable code using JavaScript and TypeScript.
-- **Redux:** Experience in state management using Redux for complex applications.
-- **API Integration:** Skilled in integrating third-party APIs to enhance app functionality and user experience.
-- **UI/UX Design Collaboration:** Collaborative approach with UX/UI designers to create intuitive and visually appealing interfaces.
-- **Node.js:** Recently started learning Node.js and worked on a MERN project, deploying it on Amazon AWS.
+---
 
-## Projects
-### E-commerce App
-- Spearheaded the development of a feature-rich e-commerce app, resulting in a 30% increase in customer engagement.
-- Implemented code optimization strategies that reduced app load times by 20%, enhancing user satisfaction.
-- Achieved a 95% positive user feedback rate through collaboration with UX/UI designers to refine app interfaces.
-- Added video call functionality, integrated Apple and Google Watches, and displayed corresponding data in the app.
+## 🛠️ Skills
 
-### Social Media App
-- Contributed to a cross-functional team for a social media app, accelerating the launch timeline by 2 months.
-- Integrated third-party APIs for payment and social media features, expanding app functionality and user reach.
-- Assisted in developing a continuous integration/continuous deployment (CI/CD) pipeline, improving code quality and deployment efficiency by 40%.
+- **React Native**: Core expertise in building cross-platform iOS & Android apps  
+- **JavaScript / TypeScript**: Clean, modular codebases with strong type safety  
+- **Redux / Context API**: Complex state management with scalable architecture  
+- **BLE Integration**: Real-time communication with hardware like alcohol testing machines  
+- **Native Module Bridging**: Bridged whiteboard feature into RN when no SDK was available  
+- **Node.js (Beginner)**: Built and integrated REST APIs in a MERN stack project  
+- **DevOps Basics**: Deployment on AWS EC2, Redhat  
 
-### Current Project
-- Currently working on an app where I integrated various SDKs to connect banking institutions, cryptocurrencies, stocks, shares, etc., collected data, and displayed it using various chart types in the application.
+---
 
-## Education
-- **BCA (Bachelor of Computer Application)**, Prestige Institute of Management and Research, Indore, India
-  - Graduated with a CGPA of 7.87
-  - Specialized in Computer Applications
+## 🚀 Notable Projects
 
-## Projects Showcase
-- **Taqwea**: Mobile app for live video classes with chat functionality. [Play Store](https://play.google.com/store/apps/details?id=com.taqwea) | [App Store](https://apps.apple.com/in/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D9%82%D9%88%D9%8A%D8%A9/id1660015433)
-- **MorLuxury**: E-commerce platform for beauty products. [Play Store](https://play.google.com/store/apps/details?id=com.morluxury) | [App Store](https://apps.apple.com/in/app/morluxury/id1645865886)
+### ✈️ IndiGo Alcohol Testing App
+- Developed for India’s largest airline
+- Built entire **frontend solo** using React Native
+- Integrated **BLE** to collect data from alcohol machines
+- Worked on **Node.js backend APIs**
+- **Live at every major airport in India** | **App is patented**
 
-## Get in Touch
-Feel free to reach out to me via [email](mailto:modhkratik@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/kratik-modh-a5a6451a5) for any inquiries or collaborations. Let's build something awesome together! 🌟
+### 🛒 E-commerce App (US-based)
+- **Team Lead** of 6 developers
+- Focused on **security-first** implementation
+- Coordinated with client-side InfoSec for best practices
+
+### 📊 Agri Analytics App
+- Built **custom graphs and charts** to represent agricultural datasets
+- Optimized performance for large data sets
+
+### 📞 Video Calling & Streaming App
+- Integrated **Agora SDK** for live video & chat
+- Bridged a **whiteboard module** natively (unsupported in RN)
+
+### 🏥 Health App
+- Integrated **Apple Watch** and **Google Wear OS**
+- Synced and displayed real-time health data
+
+---
+
+## 🎓 Education
+
+**BCA (Bachelor of Computer Applications)**  
+*Prestige Institute of Management and Research, Indore*  
+📊 CGPA: 7.87
+
+---
+
+## 📱 Projects Showcase
+
+- **Taqwea** – Live video class platform  
+  [Android](https://play.google.com/store/apps/details?id=com.taqwea) | [iOS](https://apps.apple.com/in/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D9%82%D9%88%D9%8A%D8%A9/id1660015433)
+
+- **MorLuxury** – E-commerce platform for luxury beauty products  
+  [Android](https://play.google.com/store/apps/details?id=com.morluxury) | [iOS](https://apps.apple.com/in/app/morluxury/id1645865886)
+
+---
+
+## 🤝 Let’s Connect!
+
+Looking to build something unique—whether it's integrating hardware, scaling a mobile app, or launching a new MVP?  
+📬 [modhkratik@gmail.com](mailto:modhkratik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kratik-modh-a5a6451a5)
+
+Let’s create something awesome together! 🚀
