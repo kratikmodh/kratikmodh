@@ -11,6 +11,7 @@ I thrive on leading teams, solving complex problems, and bridging the gap betwee
 ## 🔗 Quick Links
 - [LinkedIn](https://www.linkedin.com/in/kratik-modh-a5a6451a5)
 - [Email](mailto:modhkratik@gmail.com)
+- [Portfolio](https://kratikmodh.github.io/portfolio/)
 
 ---
 
