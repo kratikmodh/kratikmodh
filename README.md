@@ -40,7 +40,6 @@ I enjoy designing systems that combine **backend engineering + AI + real-world i
 
 ### 💻 Frontend
 - React Native (6+ years)
-- React.js
 - JavaScript / TypeScript
 - Redux / Context API
 
@@ -57,7 +56,7 @@ I enjoy designing systems that combine **backend engineering + AI + real-world i
 ### ✈️ Aviation Compliance System (IndiGo Airlines)
 - Developed a **patented breath alcohol testing application**
 - Deployed across **36+ airports**
-- Handles **~1000 tests daily**
+- Handles atleast **~5000 tests daily**
 - Critical safety system where failure can result in pilot suspension
 - Integrated **BLE devices + face detection**
 - Contributed to backend APIs using Node.js
